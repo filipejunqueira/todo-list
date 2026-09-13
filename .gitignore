@@ -1,0 +1,11 @@
+# Added by Claude on 2026-09-13, when this repository had none.
+# See TODO.md for what changed and why.
+# __pycache__/, .idea/ and .vscode/ were tracked here.
+
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.idea/
+.vscode/
+.DS_Store

@@ -1,4 +1,4 @@
-#!/home/filipejunqueira/anaconda3/envs/defpy/bin/python
+#!/home/filipejunqueira/miniforge3/envs/defpy/bin/python
 # The first line is the shebang! Used to tell the system which interpreter to use to run the script.
 # I only use this to create a symlink to the script in my bin folder and be able to call it from anywhere.
 
